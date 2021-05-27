@@ -1,5 +1,6 @@
 # pg_reset
 reset all pgtables in the public schema
+# usage
 python3 -s server_name -w password -d database -p port
 #
 ex
